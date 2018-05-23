@@ -1,7 +1,7 @@
 # jwt-validation-handler
 Instead of oAuth2 token, use JWT token to validate incoming request
 
-Engage the Handler
+# Engage the Handler
 
 Replace default authentication handler in the synapse file with the following
 
